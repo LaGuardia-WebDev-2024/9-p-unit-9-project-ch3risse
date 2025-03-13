@@ -1,21 +1,24 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
 
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-image: url("https://i.pinimg.com/236x/ee/ac/a8/eeaca8219e42d9d2772ba08a441e881f.jpg");
   text-align: center;
   margin: auto;
-   font-family: "Poetsen One", serif;
+
+   font-family: "Gill Sans Extrabold", serif;
+  
 }
 
 h1{
-  font-size: 30px;
-  color: white;
+  font-size: 40px;
+  color: brown;
 }
 
 #myCanvas {
   background-size: 600px 400px;
   border-radius: 30px;
-  border: 5px solid white;
+  border: 5px solid blue;
 }
 
 
